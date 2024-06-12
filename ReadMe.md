@@ -1,10 +1,6 @@
 This project utilizes the ResNet18 architecture for detecting faulty tyres in images. The model is trained and evaluated on a dataset of images containing defective and good tyres. This project was developed using Google Colab, and it leverages PyTorch for building and training the neural network.
 
 **Table of Contents**: 
-1.Project Overview 
-2.Data preprocessing 
-3.Model Training 
-4.Evaluation
 
 **Project Overview**: 
 The goal of this project is to create an effective fault detection system in tyres using a pre-trained ResNet18 model. The system can identify images containing defective or good tyres, which is useful for detecting and replacing defective tyres to avoid safety incidents.
